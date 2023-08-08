@@ -29,12 +29,12 @@ void main(){
     int A = 12;
     float B = 3.1459;
     double C = 1.6180339887;
-    char D = 'A';
+    char name = '^';
 
     printf("int: %d\n",A);
     printf("float: %f\n",B);
     printf("double: %lf\n",C);
-    printf("char: %c\n",D);
+    printf("char: %c\n",name);
 
 
     // Type Casting in C

@@ -1,0 +1,35 @@
+struct item{
+    char[20] itemName;
+    int price;
+    int stock;
+} 
+
+item.dat
+
+void addItem(){
+
+
+}
+
+void showItem(){
+    item.dat
+
+}
+
+1. Add item
+    addItem();
+2. Show items
+    show
+3. Place order
+4. exit
+
+while(userinput < 4)
+
+
+
+
+
+// (a + b) - (c* (d / 4));
+a + b = ~v  :   ~v - ( c * (d / 4))
+d / 4 = ~x  :   ~v - (c * ~x)
+c * ~x = ~y :  ~v - ~y
